@@ -1,0 +1,77 @@
+  [-] ICMP Test: 10.11.1.115 is up
+  [-] ICMP Test: 10.11.1.116 is up
+  [-] ICMP Test: 10.11.1.128 is up
+  [-] ICMP Test: 10.11.1.133 is up
+  [-] ICMP Test: 10.11.1.136 is up
+  [-] ICMP Test: 10.11.1.141 is up
+  [-] ICMP Test: 10.11.1.145 is up
+  [-] ICMP Test: 10.11.1.146 is up
+  [-] ICMP Test: 10.11.1.202 is up
+  [-] ICMP Test: 10.11.1.209 is up
+  [-] ICMP Test: 10.11.1.217 is up
+  [-] ICMP Test: 10.11.1.218 is up
+  [-] ICMP Test: 10.11.1.22 is up
+  [-] ICMP Test: 10.11.1.220 is up
+  [-] ICMP Test: 10.11.1.223 is up
+  [-] ICMP Test: 10.11.1.227 is up
+  [-] ICMP Test: 10.11.1.229 is up
+  [-] ICMP Test: 10.11.1.230 is up
+  [-] ICMP Test: 10.11.1.234 is up
+  [-] ICMP Test: 10.11.1.237 is up
+  [-] ICMP Test: 10.11.1.238 is up
+  [-] ICMP Test: 10.11.1.24 is up
+  [-] ICMP Test: 10.11.1.31 is up
+  [-] ICMP Test: 10.11.1.35 is up
+  [-] ICMP Test: 10.11.1.39 is up
+  [-] ICMP Test: 10.11.1.44 is up
+  [-] ICMP Test: 10.11.1.49 is up
+  [-] ICMP Test: 10.11.1.5 is up
+  [-] ICMP Test: 10.11.1.50 is up
+  [-] ICMP Test: 10.11.1.71 is up
+  [-] ICMP Test: 10.11.1.72 is up
+  [-] ICMP Test: 10.11.1.73 is up
+  [-] ICMP Test: 10.11.1.75 is up
+  [-] ICMP Test: 10.11.1.8 is up
+  [-] Port 443 Test: 10.11.1.115 is open.
+  [-] Port 443 Test: 10.11.1.128 is open.
+  [-] Port 443 Test: 10.11.1.202 is open.
+  [-] Port 443 Test: 10.11.1.217 is open.
+  [-] Port 443 Test: 10.11.1.22 is open.
+  [-] Port 443 Test: 10.11.1.223 is open.
+  [-] Port 443 Test: 10.11.1.227 is open.
+  [-] Port 443 Test: 10.11.1.237 is open.
+  [-] Port 443 Test: 10.11.1.238 is open.
+  [-] Port 443 Test: 10.11.1.35 is open.
+  [-] Port 443 Test: 10.11.1.8 is open.
+  [-] Port 80 Test: 10.11.1.10 is open.
+  [-] Port 80 Test: 10.11.1.115 is open.
+  [-] Port 80 Test: 10.11.1.116 is open.
+  [-] Port 80 Test: 10.11.1.128 is open.
+  [-] Port 80 Test: 10.11.1.13 is open.
+  [-] Port 80 Test: 10.11.1.133 is open.
+  [-] Port 80 Test: 10.11.1.14 is open.
+  [-] Port 80 Test: 10.11.1.202 is open.
+  [-] Port 80 Test: 10.11.1.209 is open.
+  [-] Port 80 Test: 10.11.1.217 is open.
+  [-] Port 80 Test: 10.11.1.219 is open.
+  [-] Port 80 Test: 10.11.1.22 is open.
+  [-] Port 80 Test: 10.11.1.223 is open.
+  [-] Port 80 Test: 10.11.1.227 is open.
+  [-] Port 80 Test: 10.11.1.229 is open.
+  [-] Port 80 Test: 10.11.1.230 is open.
+  [-] Port 80 Test: 10.11.1.234 is open.
+  [-] Port 80 Test: 10.11.1.237 is open.
+  [-] Port 80 Test: 10.11.1.238 is open.
+  [-] Port 80 Test: 10.11.1.24 is open.
+  [-] Port 80 Test: 10.11.1.251 is open.
+  [-] Port 80 Test: 10.11.1.31 is open.
+  [-] Port 80 Test: 10.11.1.39 is open.
+  [-] Port 80 Test: 10.11.1.49 is open.
+  [-] Port 80 Test: 10.11.1.50 is open.
+  [-] Port 80 Test: 10.11.1.71 is open.
+  [-] Port 80 Test: 10.11.1.72 is open.
+  [-] Port 80 Test: 10.11.1.8 is open.
+  [-] Port 8080 Test: 10.11.1.145 is open.
+  [-] Port 8080 Test: 10.11.1.202 is open.
+  [-] Port 8080 Test: 10.11.1.209 is open.
+  [-] Port 8080 Test: 10.11.1.73 is open.
